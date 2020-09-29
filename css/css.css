@@ -1,0 +1,127 @@
+.container{
+  width: auto;
+  height: 750px;
+  background-color: #B3E8F5;
+  text-align: center;
+  font-size: 2em;
+
+}
+
+.cloud1{
+  width: 210px;
+  height: 150px;
+  position:relative;
+  left:500px;
+  top: 30px;
+}
+
+.cloud2{
+  width: 200px;
+  height: 100px;
+  position:absolute;
+  left: 250px;
+  top: 300px;
+
+}
+
+.mountain{
+  width: 400px;
+  height: 250px;
+}
+
+h1{
+  font-size: 5.62rem;
+  margin-bottom: 20px;
+  font-family: 'Sacramento', cursive;
+
+}
+
+.container p{
+  font-size: 30px;
+}
+
+
+.girl{
+  height: 150px;
+  width: 200px;
+}
+
+body{
+  text-align: center;
+font-family: 'Roboto', sans-serif;
+
+}
+.middle-container{
+background-color: white
+}
+
+.bike{
+  width: 150px;
+  height: 150px;
+  float: left;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+}
+
+.boy{
+  width:150px;
+  height:150px;
+  float: right;
+  margin-right: 100px
+position: relative;
+
+}
+
+.bike-text
+{
+  text-align: left;
+  line-height: 2;
+  margin: 40px;
+}
+
+h3{
+  font-size: 40px;
+  color: #35D8DE
+}
+
+h2
+{
+  font-size: 60px;
+  margin-bottom: 20px;
+font-family: 'Montserrat', sans-serif;
+color: #35D8DE
+
+}
+
+.bottom-container{
+  width: auto;
+  height: 200px;
+  background-color:#3ED8DE;
+  position: relative;
+
+
+
+}
+.footer-link{
+
+position: relative;
+    top: 80px;
+
+.footer-text{
+position: relative;
+  bottom: 120px;
+}
+
+.boy-text
+{
+  text-align: left;
+  line-height: 2;
+
+}
+
+.p{
+  font-family: 'Roboto', sans-serif;;
+}
